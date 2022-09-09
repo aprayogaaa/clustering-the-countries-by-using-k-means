@@ -25,7 +25,7 @@ HELP International telah mengumpulkan sekitar $10 juta. Saat ini, CEO LSM harus 
 ---
 Dataset yang ada terdapat 10 atribut dengan total tuple sebanyak 167.  Berikut masing-masing penjelasan mengenai atribut yang ada:
 
-- Negara: Nama negara
+- **Negara**: Nama negara
 - Kematian_anak: Kematian anak di bawah usia 5 tahun per 1000 kelahiran
 - Ekspor: Ekspor barang dan jasa perkapita
 - Kesehatan: Total pengeluaran kesehatan per kapita
