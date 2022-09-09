@@ -26,15 +26,15 @@ HELP International telah mengumpulkan sekitar $10 juta. Saat ini, CEO LSM harus 
 Dataset yang ada terdapat 10 atribut dengan total tuple sebanyak 167.  Berikut masing-masing penjelasan mengenai atribut yang ada:
 
 - **Negara**: Nama negara
-- Kematian_anak: Kematian anak di bawah usia 5 tahun per 1000 kelahiran
-- Ekspor: Ekspor barang dan jasa perkapita
-- Kesehatan: Total pengeluaran kesehatan per kapita
-- Impor: Impor barang dan jasa perkapita
-- Pendapatan: Penghasilan bersih per orang
-- Inflasi: Pengukuran tingkat pertumbuhan tahunan dari Total GDP 
-- Harapan_hidup: Jumlah tahun rata-rata seorang anak yang baru lahir akan hidup jika pola kematian saat ini tetap sama
-- Jumlah_fertiliti: Jumlah anak yang akan lahir dari setiap wanita jika tingkat kesuburan usia saat ini tetap sama
-- GDPperkapita: GDP per kapita. Dihitung sebagai Total GDP dibagi dengan total populasi
+- **Kematian_anak**: Kematian anak di bawah usia 5 tahun per 1000 kelahiran
+- **Ekspor**: Ekspor barang dan jasa perkapita
+- **Kesehatan**: Total pengeluaran kesehatan per kapita
+- **Impor**: Impor barang dan jasa perkapita
+- **Pendapatan**: Penghasilan bersih per orang
+- **Inflasi**: Pengukuran tingkat pertumbuhan tahunan dari Total GDP 
+- **Harapan_hidup**: Jumlah tahun rata-rata seorang anak yang baru lahir akan hidup jika pola kematian saat ini tetap sama
+- **Jumlah_fertiliti**: Jumlah anak yang akan lahir dari setiap wanita jika tingkat kesuburan usia saat ini tetap sama
+- **GDPperkapita**: GDP per kapita. Dihitung sebagai Total GDP dibagi dengan total populasi
 
 
 ## [Project Presentation and Recommendation](https://docs.google.com/presentation/d/1sh2YH9qlfGM7WcutVmfC-SfVt5iKctzf2V6kbFgc9hg/edit?usp=sharing)
